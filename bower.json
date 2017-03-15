@@ -1,0 +1,9 @@
+{
+  "name": "relayz_cookwag_project",
+  "dependencies": {
+    "foundation-sites": "~6.3.0",
+    "font-awesome": "~4.7.0",
+    "bxslider-4": "~4.2.5",
+    "lightbox2": "~2.9.0"
+  }
+}
